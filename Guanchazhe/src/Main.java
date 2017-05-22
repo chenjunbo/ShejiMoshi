@@ -17,7 +17,7 @@ public class Main {
 //        beiGuanChaZhe.setS("dasdadasd");
         BeiGuanChaZhe.unRegist(guanD);
 //        beiGuanChaZhe.setS("123124132");
-//
         BeiGuanChaZhe.setS("786867586758");
+		//大苏打大大缩短
     }
 }
